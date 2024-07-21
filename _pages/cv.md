@@ -15,19 +15,29 @@ Education
 * M.S. <i>(by Research)</i> in Speech Signal Processing (CSE), <a href="https://www.iiits.ac.in/">Indian Institute of Information Technology Sri City, Chittoor</a>, 2019
 * Ph.D in Detecting and Characterizing Harmful Memes: Techniques and Applications (EE-Computer Technology), <a href="https://home.iitd.ac.in/">Indian Institute Of Technology Delhi (IIT Delhi)</a>, (ongoing)
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 - Present: Researcher
+  * Wipro R&D (Lab45), Wipro Ltd., India
+  * Duties included: R&D, Data Analysis, POC Web Applications for AI systems
+  <!-- * Supervisor: Professor Git -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2018 - March 2019: Research Trainee
+  * IDIAP Research Institute, Martigny, Switzerland
+  * Duties included: Investigating end-to-end modeling of aocustic cues within infant cries using 1-D CNN (part of masters thesis). 
+  * Supervisor: Dr. Mathew Magimai Doss
+
+* Fall 2015 - Spring 2016: Research Associate
+  * IIIT Sri City, Chittoor, India
+  * Duties included: Investigating fall detection sensor (IOT application). 
+  * Supervisor: Dr. Vinay Kumar Mittal
+
+* May 2014 - June 2015: Programmer Analyst
+  * Cognizant Technology Solutions Pvt. Ltd., India
+  * Duties included: Development and Support Operations - Datawarehousing and Business Intelligence. 
+  <!-- * Supervisor: Dr. Vinay Kumar Mittal -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
