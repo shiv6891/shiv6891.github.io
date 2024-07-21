@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shivam Sharma"
 title_separator          : "-"
 name                     : &name "Shivam Sharma"
-description              : &description "PhD student @ IIT Delhi | Technical Lead @ Wipro AI Research"
+description              : &description "PhD student @ IIT Delhi | Lead Research @ Wipro R&D (Lab45), Wipro Ltd."
 url                      : https://shiv6891.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shiv6891.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Shivam Sharma"
   avatar           : "shivlinkedin.png"
-  bio              : "PhD Student @ IIT Delhi, India."
+  bio              : "PhD Scholar @ IIT Delhi, India.\Lead Research @ Wipro R&D (Lab45), Wipro Ltd."
   location         : "Noida, India"
-  employer         :
+  employer         : "Wipro R&D (Lab45), Wipro Ltd."
   googlescholar    : "https://scholar.google.com/citations?user=RzntnxoAAAAJ&hl=en"
   email            : "shiv6891.iitd@gmail.com"
-  uri              :
+  uri              : "https://shiv6891.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,8 +100,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"shivam-sharma-36221040"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "shivam-sharma-36221040"
+  orcid            : "https://orcid.org/0009-0006-0732-5870"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
