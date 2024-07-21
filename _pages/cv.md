@@ -13,6 +13,7 @@ Education
 ======
 * Bachelor of Technology. in Computer Science and Engineering (CSE), <a href="https://www.upes.ac.in/">University of Petroleum and Energy Studies</a>, 2013
 * M.S. <i>(by Research)</i> in Speech Signal Processing (CSE), <a href="https://www.iiits.ac.in/">Indian Institute of Information Technology Sri City, Chittoor</a>, 2019
+  * <a href="https://shiv6891.github.io/files/Thesis_ShivamSharma_MS_IIITS_12June2019.pdf">Thesis</a>
 * Ph.D in Detecting and Characterizing Harmful Memes: Techniques and Applications (EE-Computer Technology), <a href="https://home.iitd.ac.in/">Indian Institute Of Technology Delhi (IIT Delhi)</a>, (ongoing)
 
 Work experience
@@ -24,7 +25,7 @@ Work experience
 
 * October 2018 - March 2019: Research Trainee
   * IDIAP Research Institute, Martigny, Switzerland
-  * Duties included: Investigating end-to-end modeling of aocustic cues within infant cries using 1-D CNN (part of masters thesis). 
+  * Duties included: Investigating end-to-end modeling of acoustic cues within infant cries using 1-D CNN (part of masters thesis). 
   * Supervisor: Dr. Mathew Magimai Doss
 
 * Fall 2015 - Spring 2016: Research Associate
@@ -34,7 +35,7 @@ Work experience
 
 * May 2014 - June 2015: Programmer Analyst
   * Cognizant Technology Solutions Pvt. Ltd., India
-  * Duties included: Development and Support Operations - Datawarehousing and Business Intelligence. 
+  * Duties included: Development and Support Operations - Datawarehousing and Business Intelligence (Healthcare). 
   <!-- * Supervisor: Dr. Vinay Kumar Mittal -->
   
 <!-- Skills
