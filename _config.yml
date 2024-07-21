@@ -82,9 +82,10 @@ analytics:
 author:
   name             : #"Shivam Sharma"
   avatar           : "shivlinkedin.png"
-  bio              : "PhD Scholar @ IIT Delhi, India.\Lead Research @ Wipro R&D (Lab45), Wipro Ltd."
+  bio              : "PhD Scholar @ IIT Delhi, India.\ Lead Research @ Wipro R&D (Lab45), Wipro Ltd."
   location         : "Noida, India"
-  employer         : "Wipro R&D (Lab45), Wipro Ltd."
+  # employer         : "IIT Delhi, India"
+  # employer         : "Wipro R&D (Lab45), Wipro Ltd., India"
   googlescholar    : "https://scholar.google.com/citations?user=RzntnxoAAAAJ&hl=en"
   email            : "shiv6891.iitd@gmail.com"
   uri              : "https://shiv6891.github.io/"
