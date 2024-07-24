@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My personal web page"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,9 @@ redirect_from:
 
 Hi! 
 
-I am a fourth-year PhD student at IIT Delhi and also working as a Lead Research at Wipro R&D (Lab45), Wipro Ltd. 
+I am a PhD scholar at IIT Delhi and working as a Lead researcher at Wipro R&D (Lab45), Wipro Ltd. 
 
-My thesis revolves around analyzing and characterizing Harmfulness within memes. Besides staring at memes that are both funny and outrageous, I primarily explore various computational solutions invoving multimodality and LLMs towards modeling the affective dimensions that enable characterisation and contextualisation of harmful memes. 
+My thesis revolves around analyzing and characterizing Harmfulness within memes. Besides staring at memes that are both funny and outrageous, I primarily explore various computational solutions involving multimodality and LLMs towards modeling the affective dimensions that enable characterisation and contextualisation of harmful memes. 
 
 Specifically, I'm looking into aspects related to:
 
@@ -23,4 +23,4 @@ Specifically, I'm looking into aspects related to:
   <li> Representation Learning for Memetic Applications (Self-supervised and Affect-enriched Learning)</li>  
 </ul>
 
-Prior to my on-going PhD program, I did my masters in the broader domain of Speech Signal Processing, with special focus on "A Study on Infant Vocalizations towards Classification of Para–linguistic Sounds".
+Before my ongoing PhD program, I did my masters in the broader domain of Speech Signal Processing, focusing on "A Study on Infant Vocalizations towards Classification of Para–linguistic Sounds".
