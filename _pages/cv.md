@@ -37,7 +37,8 @@ Work experience
   * Cognizant Technology Solutions Pvt. Ltd., India
   * Duties included: Development and Support Operations - Datawarehousing and Business Intelligence (Healthcare). 
   <!-- * Supervisor: Dr. Vinay Kumar Mittal -->
-  
+
+Please refer [here](https://shiv6891.github.io/files/CV_ShivamSharma_PhD_IITD.pdf) for a detailed review of my CV.
 <!-- Skills
 ======
 * Skill 1
