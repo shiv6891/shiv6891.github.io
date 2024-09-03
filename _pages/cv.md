@@ -18,9 +18,10 @@ Education
 
 Work experience
 ======
-* September 2019 - Present: Researcher
+* September 2019 - Present: Research Lead
   * Wipro R&D (Lab45), Wipro Ltd., India
   * Duties included: R&D, Data Analysis, POC Web Applications for AI systems
+  * Projects: Hate-speech ELIcitation and Observation System (HELIOS), Domain Adaptive Fake News Verification, and Precision Treatment Pathways (PTP)
   <!-- * Supervisor: Professor Git -->
 
 * October 2018 - March 2019: Research Trainee
@@ -35,10 +36,10 @@ Work experience
 
 * May 2014 - June 2015: Programmer Analyst
   * Cognizant Technology Solutions Pvt. Ltd., India
-  * Duties included: Development and Support Operations - Datawarehousing and Business Intelligence (Healthcare). 
+  * Duties included Development and Support Operations - Data warehousing and Business Intelligence (Healthcare). 
   <!-- * Supervisor: Dr. Vinay Kumar Mittal -->
 
-Please refer <a href="https://shiv6891.github.io/files/CV_ShivamSharma_PhD_IITD.pdf" font>here</a> for a detailed review of my CV.
+For more information, please refer to the detailed <a href="https://shiv6891.github.io/files/CV_ShivamSharma_PhD_IITD.pdf" font>CV</a>.
 
 <!-- Skills
 ======
