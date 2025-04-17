@@ -10,9 +10,11 @@ redirect_from:
 
 Hi! 
 
-I am a PhD scholar at IIT Delhi and working as a Lead researcher at Wipro R&D (Lab45), Wipro Ltd. 
+I am a Postdoctoral researcher at UKP Lab, TU Darmstadt.
 
-My thesis revolves around analyzing and characterizing Harmfulness within memes. Besides staring at memes that are both funny and outrageous, I primarily explore various computational solutions involving multimodality and LLMs towards modeling the affective dimensions that enable characterisation and contextualisation of harmful memes. 
+I am currently working on Contextual and Applied Multimodal Reasoning, focusing on hetrogenous data types.
+
+I pursued my PhD at IIT Delhi, and my thesis revolves around analyzing and characterizing Harmfulness within memes. Besides staring at memes that are both funny and outrageous, I primarily explore various computational solutions involving multimodality and LLMs towards modeling the affective dimensions that enable characterisation and contextualisation of harmful memes. 
 
 Specifically, I'm looking into aspects related to:
 
