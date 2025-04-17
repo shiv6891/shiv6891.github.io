@@ -12,7 +12,7 @@ Hi!
 
 I am a Postdoctoral researcher at UKP Lab, TU Darmstadt.
 
-I am currently working on Contextual and Applied Multimodal Reasoning, focusing on hetrogenous data types.
+Broadly interested in NLP and Multimodal AI. Currently working on Contextual and Applied Multimodal Reasoning with emphasis on hetrogenous data types.
 
 I pursued my PhD at IIT Delhi, and my thesis revolves around analyzing and characterizing Harmfulness within memes. Besides staring at memes that are both funny and outrageous, I primarily explore various computational solutions involving multimodality and LLMs towards modeling the affective dimensions that enable characterisation and contextualisation of harmful memes. 
 
