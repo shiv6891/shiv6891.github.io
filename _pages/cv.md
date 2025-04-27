@@ -18,6 +18,11 @@ Education
 
 Work experience
 ======
+February 2025 - Present: Postdoctoral Researcher
+  * UKP Lab, TU Darmstadt, Darmstadt, Germany
+  * Duties included: Research, SIG Coordination, and Student Supervision.
+  * Research: Exploring contextual and applied multimodal reasoning with emphasis on hetrogenous data types like Tables, Images, additional visual data-types.
+
 * September 2019 - December 2025: Research Lead
   * Wipro R&D (Lab45), Wipro Ltd., India
   * Duties included: R&D, Data Analysis, POC Web Applications for AI systems
