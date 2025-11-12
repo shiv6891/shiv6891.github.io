@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! 
 
-I am a Postdoctoral researcher at UKP Lab, TU Darmstadt.
+I am a Postdoctoral researcher.
 
 Broadly interested in NLP and Multimodal AI. Currently working on Contextual and Applied Multimodal Reasoning with emphasis on hetrogenous data types.
 

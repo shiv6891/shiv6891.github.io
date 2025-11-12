@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Technology. in Computer Science and Engineering (CSE), <a href="https://www.upes.ac.in/">University of Petroleum and Energy Studies, Dehradun, India</a>, 2013
-* M.S. <i>(by Research)</i> in Speech Signal Processing (CSE), <a href="https://www.iiits.ac.in/">Indian Institute of Information Technology Sri City, Chittoor, India</a>, 2019
+* Bachelor of Technology. in Computer Science and Engineering (CSE), <a href="https://www.upes.ac.in/">University of Petroleum and Energy Studies, Dehradun, India</a>, 2009-2013
+* M.S. <i>(by Research)</i> in Speech Signal Processing (CSE), <a href="https://www.iiits.ac.in/">Indian Institute of Information Technology Sri City, Chittoor, India</a>, 2016-2019
   * <a href="https://shiv6891.github.io/files/Thesis_ShivamSharma_MS_IIITS_12June2019.pdf">Thesis</a>
-* Ph.D in Detecting and Characterizing Harmful Memes: Techniques and Applications (EE-Computer Technology), <a href="https://home.iitd.ac.in/">Indian Institute Of Technology Delhi (IIT Delhi), New Delhi, India</a>, (Thesis Submitted - Jan'25)
+* Ph.D in Detecting and Characterizing Harmful Memes: Techniques and Applications (EE-Computer Technology), <a href="https://home.iitd.ac.in/">Indian Institute Of Technology Delhi (IIT Delhi), New Delhi, India</a>, 2020-2025
 
 Work experience
 ======
-* February 2025 - Present: Postdoctoral Researcher
+* February 2025 - November 2025: Postdoctoral Researcher
   * UKP Lab, TU Darmstadt, Darmstadt, Germany
   * Duties included: Research, SIG Coordination, and Student Supervision.
   * Research: Exploring contextual and applied multimodal reasoning with emphasis on hetrogenous data types like Tables, Images, additional visual data-types.
